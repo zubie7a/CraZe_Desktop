@@ -10,5 +10,5 @@ This is an application I started making while learning the basics of AWT and Swi
 While learning all those things about graphics and GUI design, was very intrigued by the posibilities of drawing lines, shapes, and applying concepts of trigonometry, geometry, and linear algebra to these points and shapes in the graphics department, and in the GUI department, having buttons, knobs, sliders, whatever, that could allow an user to modify parameters that could be set as fixed or variable. Thus, CraZe was born in my spare time.
 
 ###Web Gallery 
-These drawings were made by many people, but mostly me during development. Heck, some times while testing a brush, something would go wrong, but the resulting bugged brush ended up looking nice and implemented as a separate brush! Thats why bugs can become features sometimes hehe.
-[![](https://i.imgur.com/9LBecYT.png)](http://www.youtube.com/watch?v=84-AlIMW7Fk)
+These drawings were made by many people, some friends, some anonymous people over the web, and me. Heck, some times during development, while testing a brush, something would go wrong, but the resulting bugged brush ended up looking nice and I decided to have it as a separate brush! Thats why bugs can become features sometimes hehe. Press the image to go to the gallery!
+[![](https://i.imgur.com/9LBecYT.png)](https://imgur.com/a/LEetg)
