@@ -1,7 +1,7 @@
 ##Santiago Zubieta
 ####2012
 
-#CraZe
+#CraZe for Desktop
 
 ###Description
 This is an application I started making while learning the basics of AWT and Swing graphics and GUI design in Java for the university classes. This was done for educational purposes, and is licensed for use under the MIT License. Forgive my very *2012* coding style (When I was barely a 1-year-old programmer). Also, the code is ridiculously large because I had several repeated functions with minimal changes. I later refactored it for the Android version, at < 1/4th of its size! The Web version has the same logic than the Android version, so there aren't many noticeable changes in length.
