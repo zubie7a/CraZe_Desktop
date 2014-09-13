@@ -1,6 +1,9 @@
 ##Santiago Zubieta
 ####2012
 
+*'Stars when you shine, you know how I feel'*  
+-Nina Simone/Muse, Feeling Good
+
 #CraZe for Desktop
 
 ###Description
