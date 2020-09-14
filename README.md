@@ -15,5 +15,7 @@ It would become then very easy to draw lines and shapes while **dynamically** ap
 Thus, **CraZe** was born in my spare time.
 
 ### Web Gallery 
-These drawings were made by many people, some friends, some anonymous people over the web, and me. Press the image to go to the gallery!
+These drawings were made by many people, some friends, some anonymous people over the web, and me.
+
+Press the image to go to the gallery!
 [![](https://i.imgur.com/9LBecYT.png)](https://imgur.com/a/LEetg)
